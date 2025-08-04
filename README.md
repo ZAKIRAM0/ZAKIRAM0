@@ -3,6 +3,10 @@
 ![](https://komarev.com/ghpvc/?username=ZAKIRAM0)
 
 I'm Zirui Zhang! Welcome to my page!
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
